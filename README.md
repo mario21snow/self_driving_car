@@ -11,4 +11,7 @@ it to learn how to respond to different driving scenarios. Pygame is used to cre
 that displays the car's view and allows the user to interact with the system. The project aims to demonstrate
 the potential of machine learning and AI in the automotive industry by developing a self-driving car that can 
 navigate complex environments and make decisions in real-time.
+============================================================================================================
+
+![image](https://user-images.githubusercontent.com/102954942/227741179-caa78ebc-1b10-48eb-bbb9-489d778ef83f.png)
 
